@@ -1,0 +1,2 @@
+# CSCI_580_Artificial_Intelligence
+Artificial Intelligence assignments
